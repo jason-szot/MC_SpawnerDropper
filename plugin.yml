@@ -1,0 +1,6 @@
+name: Spawner_Dropper
+version: 0.1
+api-version: 1.20
+main: com.bubbamc.SpawnerDropper
+author: Jason
+description: Drops mob spawners when broken with a silk touch pick
